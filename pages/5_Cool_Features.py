@@ -6,12 +6,12 @@ st.write("#### Below are some cool features that Streamlit offers.")
 
 st.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 
-st.subheader("features.button", "Click me!", "https://docs.streamlit.io/get-started/fundamentals/additional-features")
+st.link_button("features.button", "Click me!", "https://docs.streamlit.io/get-started/fundamentals/additional-features")
 
 st.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 
 st.subheader("Components")
 
-st.button("components.button", "Click me!", "https://streamlit.io/components?category=authentication")
+st.link_button("components.button", "Click me!", "https://streamlit.io/components?category=authentication")
 
 st.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
