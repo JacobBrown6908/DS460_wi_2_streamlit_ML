@@ -7,7 +7,7 @@ col1, col2 = st.columns([1, 1])
 col1.write("##### import streamlit as st")
 col2.write("This imports the streamlit library and allows us to use all of its functions")
 
-st.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
+col1.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 
 col1.subheader("String Functions")
 
