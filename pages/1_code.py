@@ -5,13 +5,14 @@ st.title("Coding Library")
 col1, col2 = st.columns([1, 1])
 
 col1.write("##### import streamlit as st")
+col1.write("   ")
+
 col2.write("This imports the streamlit library and allows us to use all of its functions")
 
 col1.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 col2.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 
 col1.subheader("String Functions")
-col2.subheader("   ")
 
 col1.write("##### st.title('')")
 col2.write("This function allows us to add a title to the top of the page")
@@ -26,13 +27,14 @@ col1.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  #
 col2.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 
 col1.write("##### st.write('')")
+col1.write("   ")
+
 col2.write("This is the most basic function that allows us to write text to the page. Also, using `##` in Markdown allows us to create headers in the `write` function.")
 
 col1.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 col2.markdown('<hr style="border:1px dashed #ccc;">', unsafe_allow_html=True)  # Full-width dashed line
 
 col1.subheader("Interactive Functions")
-col2.subheader("   ")
 
 
 col1.write("##### st.button('')")
