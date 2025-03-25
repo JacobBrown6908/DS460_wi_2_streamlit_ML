@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Coding Library")
 
-st.write("#### import streamlit as st")
+st.write("#### import treamlit as st")
 
 st.write("This imports the Streamlit library and allows us to use all of its functions.")
 
