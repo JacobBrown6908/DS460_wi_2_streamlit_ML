@@ -14,8 +14,3 @@ st.link_button("Streamlit Graphs and Charts Functions", "https://docs.streamlit.
 
 st.link_button("5 Graphing Librarys Streamlit Supports", "https://datavizandai.github.io/2024/05/16/streamlit-five-varieties.html")
 
-#st.link_button("5 Graphing Librarys Streamlit Supports", "https://datavizandai.github.io/2024/05/16/streamlit-five-varieties.html")
-
-#st.link_button("5 Graphing Librarys Streamlit Supports", "https://datavizandai.github.io/2024/05/16/streamlit-five-varieties.html")
-
-#st.link_button("5 Graphing Librarys Streamlit Supports", "https://datavizandai.github.io/2024/05/16/streamlit-five-varieties.html")
