@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.subheader("Learnig Goals")
+st.subheader("Learning Goals")
 
 st.write("#### 1. Understand how to start a new Streamlit app")
 st.write("   ")
